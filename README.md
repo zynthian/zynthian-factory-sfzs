@@ -1,14 +1,13 @@
-# Zynthian factory SFZs - github version
+# Zynthian factory SFZs
 
-This is the new github repository for Zynthian factory sfzs.
-Github repo so that they can be maintained by all.
+This is the repository for Zynthian factory sfzs, replacing the original store at
+[https://os.zynthian.org/packages/Soundfonts/Zynthian Factory SFZs].
 
 NOTE: best to uninstall original factory SFZs package before
-installing this package.
+installing this package.  However, this may soon replace the
+original factory package completely.
 
-## Changes
+## Changes, newest first
 
-All audio files are FLAC format, reducing filespace from
-1.5G to 750M.
-
-Bass/DeepBass - long variable latency removed
+- Bass/DeepBass - long variable latency removed
+- All audio files are FLAC format, reducing filespace from 1.5G to 750M.
