@@ -1,11 +1,6 @@
-# Zynthian factory SFZs
+# Zynthian Factory SFZs
 
-This is the repository for Zynthian factory sfzs, replacing the original store at
-[https://os.zynthian.org/packages/Soundfonts/Zynthian Factory SFZs].
-
-NOTE: best to uninstall original factory SFZs package before
-installing this package.  However, this may soon replace the
-original factory package completely.
+This is the repository for Zynthian Factory SFZs, replacing the (original package)[https://os.zynthian.org/packages/Soundfonts/Zynthian Factory SFZs].
 
 ## Changes, newest first
 
