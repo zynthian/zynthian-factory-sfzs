@@ -1,3 +1,4 @@
+<global> global_volume=12
 <group>
 ampeg_decay=25.575
 ampeg_sustain=0.001

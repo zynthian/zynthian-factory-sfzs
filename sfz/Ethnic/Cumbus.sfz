@@ -1,3 +1,4 @@
+<global> global_volume=11
 <region> sample=Samples\Cumbus\Cumbus D#1-L.flac
 lokey=21
 hikey=41

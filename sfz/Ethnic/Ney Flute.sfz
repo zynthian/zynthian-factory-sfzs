@@ -1,3 +1,4 @@
+<global> global_volume=8
 <group>
 volume=-4.235
 ampeg_release=0.828

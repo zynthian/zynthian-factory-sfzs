@@ -1,3 +1,4 @@
+<global> global_volume=15
 <group>
 effect1=7
 pitcheg_release=0.538

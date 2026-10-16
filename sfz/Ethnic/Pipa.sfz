@@ -1,3 +1,4 @@
+<global> global_volume=8
 <group>
 ampeg_decay=0.002
 ampeg_release=0.871

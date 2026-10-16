@@ -1,3 +1,4 @@
+<global> global_volume=7
 <group>
 volume=3.85
 ampeg_sustain=0.001
