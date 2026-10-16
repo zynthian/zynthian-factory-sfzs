@@ -1,3 +1,4 @@
+<global> global_volume=6
 <group> pan=-100
 <region> sample=3_F.flac pitch_keycenter=f3 lokey=c3 hikey=g3
 <region> sample=3_A.flac pitch_keycenter=a3 lokey=g#3 hikey=a#3

@@ -1,4 +1,5 @@
-<group> group=1 ampeg_release=.1 lovel=60 ampeg_attackcc67=.55
+<global> global_volume=6
+<group> group=1 ampeg_release=.1 lovel=60 ampeg_attackcc67=.556
 #include "V1"
 
 <group> group=1 ampeg_release=.1 hivel=59 ampeg_attackcc67=.55

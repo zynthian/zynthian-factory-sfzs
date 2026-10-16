@@ -1,3 +1,4 @@
+<global> global_volume=6
 <group> hicc68=63 lovel=64
 group=1
 ampeg_release=.1 ampeg_attackcc67=.55

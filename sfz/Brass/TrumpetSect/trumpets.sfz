@@ -1,4 +1,5 @@
 // Trumpet ensemble
+<global> global_volume=8
 
 <group>
 ampeg_sustain=100

@@ -1,3 +1,4 @@
+<global> global_volume=3
 <group> group=1 ampeg_release=.4 hicc64=63 off_mode=normal
 #include "V1.sfz"
 

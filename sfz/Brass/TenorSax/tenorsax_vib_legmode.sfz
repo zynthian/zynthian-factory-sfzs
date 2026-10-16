@@ -1,3 +1,4 @@
+<global> global_volume=6
 <group> trigger=first lovel=64
 ampeg_release=.1 ampeg_attackcc67=.55
 group=1 off_by=1 off_mode=normal
