@@ -1,4 +1,5 @@
 <control> default_path=Sustain\
+<global> global_volume=-3
 <group> ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.4
 <region> sample=1_E.flac hikey=e1 pitch_keycenter=e1 ampeg_hold=9.2
 <region> sample=1_Gb.flac lokey=f1 hikey=g1 pitch_keycenter=f#1 ampeg_hold=9

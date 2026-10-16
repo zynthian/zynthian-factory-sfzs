@@ -1,3 +1,4 @@
+<global> global_volume=-5
 <group>
 //ampeg_sustain=.01
 //ampeg_decay=15
