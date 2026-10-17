@@ -1,4 +1,6 @@
 // Sound Variation Controller (MIDI CC#70) = Sustain (0)
+<global> global_volume=4
+
 <group> group=1 hicc70=0 lovel=60
 ampeg_release=.1 ampeg_attackcc67=.55
 #include "S1"

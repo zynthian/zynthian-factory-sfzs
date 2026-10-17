@@ -1,3 +1,5 @@
+<global> global_volume=5
+
 <group> ampeg_release=0.6
 <region> sample=1_B.flac pitch_keycenter=b1 lokey=f1 hikey=c2
 <region> sample=2_D.flac pitch_keycenter=d2 lokey=c#2 hikey=d#2

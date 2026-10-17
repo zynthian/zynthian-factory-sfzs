@@ -1,3 +1,5 @@
+<global> global_volume=4
+
 <group> ampeg_release=.1 lovel=60 trigger=first off_by=1 group=1 off_mode=normal ampeg_attackcc67=.55
 #include "S1"
 
