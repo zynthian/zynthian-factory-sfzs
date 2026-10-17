@@ -1,4 +1,5 @@
 <control> default_path=Mute\
+<global> global_volume=10
 <group>
 <region> sample=2_F_m.flac pitch_keycenter=f2 hikey=f#2
 <region> sample=2_A_m.flac pitch_keycenter=a2 lokey=g2 hikey=a#2

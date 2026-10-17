@@ -1,5 +1,6 @@
 // Clean electric guitar.
 // Muted notes.
+<global> global_volume=8
 <group> hikey=e5 seq_length=2
 <region> sample=2_E_m1.flac pitch_keycenter=e2 lokey=c2 hikey=e2
 <region> sample=2_E_m2.flac seq_position=2 pitch_keycenter=e2 lokey=c2 hikey=e2

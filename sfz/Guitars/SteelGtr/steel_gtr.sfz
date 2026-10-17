@@ -1,4 +1,5 @@
 // Stereo acoustic guitar
+<global> global_volume=17
 
 <group>
 lovel=1 hivel=25

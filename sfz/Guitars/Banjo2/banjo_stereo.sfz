@@ -1,3 +1,4 @@
+<global> global_volume=10
 <group> ampeg_sustain=0.01 ampeg_release=.3 ampeg_decay=25
 <region> sample=3_D.flac pitch_keycenter=d3 lokey=a2 hikey=d3
 <region> sample=3_Eb.flac key=d#3

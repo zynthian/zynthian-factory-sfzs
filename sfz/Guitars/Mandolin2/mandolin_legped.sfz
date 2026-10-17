@@ -1,3 +1,4 @@
+<global> global_volume=10
 <group> ampeg_decay=12 ampeg_sustain=0.001 ampeg_release=0.4 ampeg_hold=1.8
 hicc68=63
 #include "S1.sfz"

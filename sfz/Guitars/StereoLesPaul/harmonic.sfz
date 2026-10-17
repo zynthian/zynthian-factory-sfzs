@@ -1,5 +1,6 @@
 // Clean electric guitar.
 // Harmonic notes.
+<global> global_volume=8
 <group> ampeg_sustain=0.001 ampeg_release=0.4 ampeg_decay=18 seq_length=2
 <region> sample=3_E_h1.flac key=e3
 <region> sample=3_E_h2.flac seq_position=2 key=e3

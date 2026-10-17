@@ -2,6 +2,7 @@
 // sustained notes.
 // Soft pedal selects hammer off.
 // Notes D1 to B1 play chord thrums.
+<global> global_volume=8
 <group> ampeg_sustain=0.001 ampeg_release=0.4 ampeg_decay=30 seq_length=2
 lovel=58 hivel=127
 locc67=0 hicc67=63

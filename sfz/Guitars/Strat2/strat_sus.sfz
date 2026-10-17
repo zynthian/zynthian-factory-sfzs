@@ -2,6 +2,7 @@
 // Soft pedal selects hammer off.
 
 <control> default_path=Sustain\
+<global> global_volume=8
 
 // Hi vel
 <group>

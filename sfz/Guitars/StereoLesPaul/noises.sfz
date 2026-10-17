@@ -1,6 +1,7 @@
 // Clean electric guitar.
 // Fret noises, and chord thrums.
 
+<global> global_volume=8
 <group> loop_mode=one_shot volume=-5
 <region> sample=noise\fret1.flac key=c4
 <region> sample=noise\fret2.flac key=d4
