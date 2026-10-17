@@ -1,3 +1,5 @@
+<global> global_volume=13
+
 <group>
 tune=-13
 ampeg_attack=0.106

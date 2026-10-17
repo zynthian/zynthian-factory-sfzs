@@ -1,3 +1,5 @@
+<global> global_volume=3
+
 <group>
 transpose=1
 tune=1

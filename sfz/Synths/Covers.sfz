@@ -1,3 +1,5 @@
+<global> global_volume=12
+
 <group>
 ampeg_release=0.87
 fillfo_freq=3.001

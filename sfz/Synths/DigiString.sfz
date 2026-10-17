@@ -1,3 +1,5 @@
+<global> global_volume=16
+
 <group>
 ampeg_attack=0.702
 ampeg_decay=0.78

@@ -1,3 +1,5 @@
+<global> global_volume=7
+
 <group>
 transpose=-11
 ampeg_attack=0.002

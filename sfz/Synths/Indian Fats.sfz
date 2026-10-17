@@ -1,3 +1,5 @@
+<global> global_volume=9
+
 <group>
 fillfo_freq=3.001
 amplfo_freq=3.001

@@ -1,3 +1,5 @@
+<global> global_volume=12
+
 <group>
 transpose=-12
 ampeg_release=0.931
