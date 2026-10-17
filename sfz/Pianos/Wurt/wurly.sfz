@@ -9,6 +9,7 @@
  lfo06_pitch=0 lfo06_pitch_oncc129=50 lfo06_pitch_oncc1=50
  lfo06_freq=8.176
  amplitude_oncc11=100 amplitude_curvecc11=7
+ global_volume=3
 
 <master>
 <group>
