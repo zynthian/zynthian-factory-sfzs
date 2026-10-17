@@ -1,2 +1,4 @@
+<global> global_volume=3
+
 <group> ampeg_release=1.1 ampeg_attackcc67=.55
 #include "S1"

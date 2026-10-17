@@ -1,3 +1,5 @@
+<global> global_volume=5
+
 <group> group=1 ampeg_release=0.4 lovel=80 off_mode=normal
 #include "S1.sfz"
 

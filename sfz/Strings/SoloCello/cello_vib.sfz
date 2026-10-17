@@ -1,3 +1,5 @@
+<global> global_volume=4
+
 <group> group=1 ampeg_release=.5
 #include "V1.sfz"
 

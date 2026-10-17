@@ -1,4 +1,6 @@
 <control> default_path=Vibrato\
+<global> global_volume=4
+
 <group> ampeg_release=.2 trigger=first off_by=1 group=1 off_mode=normal
 #include "V1.sfz"
 

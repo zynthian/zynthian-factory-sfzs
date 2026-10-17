@@ -1,3 +1,5 @@
+<global> global_volume=6
+
 <control> default_path=Spiccato\
 <group>
 	ampeg_release=0.4

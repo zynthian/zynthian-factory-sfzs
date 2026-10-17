@@ -1,3 +1,5 @@
+<global> global_volume=4
+
 <control> default_path=Pizzicato\
 <region> lokey=c2 hikey=c2 pitch_keycenter=c2 sample=2_C.flac
 <region> lokey=c#2 hikey=d2 pitch_keycenter=d2 sample=2_D.flac

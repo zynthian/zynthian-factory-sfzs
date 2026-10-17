@@ -1,4 +1,6 @@
 <control> default_path=Tremulo\
+<global> global_volume=4
+
 <group> group=1 ampeg_release=0.3 off_mode=normal
 <region> sample=3_G.flac hikey=g#3 pitch_keycenter=g3
 <region> sample=3_A.flac lokey=a3 hikey=a#3 pitch_keycenter=a3

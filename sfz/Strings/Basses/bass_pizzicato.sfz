@@ -1,3 +1,5 @@
+<global> global_volume=5
+
 <group> ampeg_release=1.6
 <region> sample=Pizzicato\1_D.flac pitch_keycenter=d1 hikey=d1
 <region> sample=Pizzicato\1_E.flac pitch_keycenter=e1 lokey=d#1 hikey=e1

@@ -1,3 +1,5 @@
+<global> global_volume=3
+
 // Sound Variation Controller (MIDI CC#70) = Sustain (0) or Vibrato (1)
 <group> ampeg_release=1.1 ampeg_attackcc67=.55 hicc70=2 //hicc70=1
 #include "S1"

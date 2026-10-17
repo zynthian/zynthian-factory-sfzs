@@ -1,3 +1,5 @@
+<global> global_volume=4
+
 <group> group=1 ampeg_release=.1 trigger=first off_by=1 off_mode=normal
 #include "V1.sfz"
 

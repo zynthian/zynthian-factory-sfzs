@@ -14,6 +14,7 @@ label_cc67=Tremolo (cc67)
 
 <global>
 sw_lokey=a0  sw_hikey=c8  sw_default=a0
+global_volume=5
 
 // ********************
 // * Sustained - CC11 *

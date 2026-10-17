@@ -1,3 +1,5 @@
+<global> global_volume=6
+
 <group> ampeg_release=0.4
 <region> sample=PizzicatoVib\3_G.flac hikey=55 pitch_keycenter=55
 <region> sample=PizzicatoVib\3_Ab.flac key=56

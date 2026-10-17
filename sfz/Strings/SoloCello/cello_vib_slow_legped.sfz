@@ -1,4 +1,6 @@
 <control> default_path=Vibrato\
+<global> global_volume=4
+
 <group> group=1 ampeg_release=.5 hicc68=63 ampeg_attack=.55
 #include "V1.sfz"
 

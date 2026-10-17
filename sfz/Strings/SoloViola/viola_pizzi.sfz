@@ -1,3 +1,5 @@
+<global> global_volume=5
+
 <control> default_path=Pizzicato\
 <group> seq_length=2 ampeg_release=0.4
 <region> hikey=c#3 pitch_keycenter=c3 sample=3_C_1.flac

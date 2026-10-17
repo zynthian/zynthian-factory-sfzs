@@ -1,3 +1,5 @@
+<global> global_volume=5
+
 <group>
 	ampeg_hold=100
 	ampeg_release=0.5
