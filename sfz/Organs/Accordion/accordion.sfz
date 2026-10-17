@@ -1,4 +1,6 @@
 <control> default_path=A\
+<global> global_volume=2
+
 <group> group=1 ampeg_release=.2
 <region> sample=3_C.flac pitch_keycenter=c3 hikey=d3
 <region> sample=3_F.flac pitch_keycenter=f3 lokey=d#3 hikey=f#3

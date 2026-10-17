@@ -2,6 +2,7 @@
 	set_cc1=0
 	set_cc11=127
 	set_cc64=0
+<global> global_volume=5
 
 <group>
 	ampeg_hold=100

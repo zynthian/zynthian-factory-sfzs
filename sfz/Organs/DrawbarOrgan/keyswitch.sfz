@@ -28,7 +28,7 @@
 label_cc11=Swell Pedal
 set_cc11=70
 
-<global> amp_veltrack=0 global_volume=-32 gain_cc11=24 loop_mode=loop_continuous lokey=35
+<global> amp_veltrack=0 global_volume=-20 gain_cc11=24 loop_mode=loop_continuous lokey=35
 sustain_sw=off // disable sustain pedal, as it might be used to control rotor speed
 sw_lokey=21
 sw_hikey=32

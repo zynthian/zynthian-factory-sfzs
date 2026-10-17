@@ -39,7 +39,7 @@ set_cc22=1
 set_cc23=1
 set_cc24=1
 
-<global> amp_veltrack=0 global_volume=-48 gain_cc11=24 loop_mode=loop_continuous
+<global> amp_veltrack=0 global_volume=-36 gain_cc11=24 loop_mode=loop_continuous
 sustain_sw=off // disable sustain pedal, as it might be used to control rotor speed
 
 <group>locc1=000 hicc1=031 sample=*sine // Hammond
