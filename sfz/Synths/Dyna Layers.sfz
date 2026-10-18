@@ -1,5 +1,6 @@
 <group>
-pan=28.4
+// pan=28.4
+ampeg_decay=3.553
 ampeg_sustain=0.001
 ampeg_release=0.712
 fillfo_freq=3.001
