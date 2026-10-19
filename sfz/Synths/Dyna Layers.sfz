@@ -1,3 +1,5 @@
+<global> global_volume=9
+
 <group>
 // pan=28.4
 ampeg_decay=3.553

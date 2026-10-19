@@ -1,4 +1,4 @@
-<global> global_volume=2
+<global> global_volume=7
 
 <group> ampeg_release=0.4 ampeg_sustain=0.001 ampeg_decay=30.0
 <region> sample=2_E.flac pitch_keycenter=e1 hikey=f1

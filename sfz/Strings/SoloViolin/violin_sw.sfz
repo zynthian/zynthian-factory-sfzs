@@ -1,4 +1,8 @@
-<global> global_volume=6
+<control>
+label_cc1=vibrato on/off
+set_cc1=10
+
+<global> global_volume=4
 
 <group> group=1 hicc1=10 ampeg_release=0.3 off_mode=normal
 #include "S1.sfz"
