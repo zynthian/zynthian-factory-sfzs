@@ -1,3 +1,5 @@
+<control>
+label_cc70=voicing S-V-T-L-VL-P
 <global> global_volume=3
 
 // Sound Variation Controller (MIDI CC#70) = Sustain (0) or Vibrato (1)

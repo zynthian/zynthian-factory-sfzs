@@ -1,4 +1,10 @@
+<control>
+label_cc1=growl
+label_cc70=sustain vibrato legato
+set_cc1=64
+
 <global> global_volume=6
+
 // Sound Variation Controller (MIDI CC#70) = Sustain (0) or Vibrato (1)
 <group> group=1 hicc70=1 lovel=64
 ampeg_release=.1 ampeg_attackcc67=.55

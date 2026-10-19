@@ -1,4 +1,6 @@
 // Sound Variation Controller (MIDI CC#70) = Sustain (0)
+<control>
+label_cc70=sustain vibrato legato
 <global> global_volume=4
 
 <group> group=1 hicc70=0 lovel=60

@@ -1,3 +1,6 @@
+<control>
+label_cc64=legato
+
 <group> ampeg_release=1.3 hicc64=63
 #include "S1.sfz"
 

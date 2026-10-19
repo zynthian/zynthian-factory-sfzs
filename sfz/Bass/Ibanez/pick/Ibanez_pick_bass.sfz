@@ -1,14 +1,18 @@
-<control>
- hint_ram_based=1
- set_cc1=0
- set_cc11=127
- set_cc64=0
+// Tremolo controllers
+label_cc1=Tremolo Amp
+label_cc92=Tremolo Freq
+set_hdcc1=0
+set_hdcc92=0.5
 
 <global>
- lfo06_wave=0
- lfo06_pitch=0 lfo06_pitch_oncc129=50 lfo06_pitch_oncc1=50
- lfo06_freq=8.176
- amplitude_oncc11=100 amplitude_curvecc11=7
+// Tremolo
+lfo01_wave=0              // Waveform shape (0 = Sine, 1 = Triangle)
+// 1. Map the Mod Wheel (CC 1) to control the depth
+lfo01_volume=0.0          // Base volume
+lfo01_volume_oncc1=6.0    // Pushing the mod wheel all the way up adds 6 dB of volume modulation
+// 2. Map CC92 to control the tremolo frequency
+lfo01_freq=2            // Base frequency
+lfo01_freq_oncc92=7       // Knob adds up to 7 Hz to the speed
 
 <master>
 <group>

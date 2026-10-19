@@ -1,3 +1,6 @@
+<control>
+label_cc68=legato pedal
+
 <global> global_volume=6
 <group> ampeg_release=0.6 hicc68=63
 #include "S1.sfz"

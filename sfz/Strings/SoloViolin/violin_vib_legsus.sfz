@@ -1,3 +1,6 @@
+<control>
+label_cc64=legato
+
 <global> global_volume=6
 
 <group> group=1 ampeg_release=.3 hicc64=63 off_mode=normal

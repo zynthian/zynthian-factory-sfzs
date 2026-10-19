@@ -1,3 +1,6 @@
+<control>
+label_cc67=legato pedal
+
 <group> group=1 hicc67=63 ampeg_release=0.1 off_mode=normal lovel=90
 #include "P1.sfz"
 
