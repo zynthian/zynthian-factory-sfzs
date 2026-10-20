@@ -17,6 +17,8 @@ lfo01_volume_oncc1=6.0    // Pushing the mod wheel all the way up adds 6 dB of v
 lfo01_freq=2            // Base frequency
 lfo01_freq_oncc92=7       // Knob adds up to 7 Hz to the speed
 
+global_volume=15
+
 
 <master>
 <group>
