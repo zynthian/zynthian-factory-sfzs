@@ -1,5 +1,5 @@
 <control>
-default_path=finger
+default_path=finger/
 
 // Tremolo controllers
 label_cc1=Tremolo Amp

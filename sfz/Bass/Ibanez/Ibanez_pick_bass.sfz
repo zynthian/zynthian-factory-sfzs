@@ -1,5 +1,5 @@
 <control>
-default_path=pick
+default_path=pick/
 
 // Tremolo controllers
 label_cc1=Tremolo Amp
