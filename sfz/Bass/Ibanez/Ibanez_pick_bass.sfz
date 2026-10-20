@@ -1,3 +1,6 @@
+<control>
+default_path=pick
+
 // Tremolo controllers
 label_cc1=Tremolo Amp
 label_cc92=Tremolo Freq
@@ -14,6 +17,57 @@ lfo01_volume_oncc1=6.0    // Pushing the mod wheel all the way up adds 6 dB of v
 lfo01_freq=2            // Base frequency
 lfo01_freq_oncc92=7       // Knob adds up to 7 Hz to the speed
 
+<master>
+<group>
+ ampeg_decay=36.9926
+ ampeg_sustain=0.001
+ ampeg_release=0.435024
+
+/////////////////////////////////////////////////////////////////////////////
+// Fret noises
+
+<region>
+sample=SOUND_1.flac 
+pitch_keycenter=74
+lokey=72 hikey=76
+lovel=0 hivel=127
+
+<region>
+sample=SOUND_2.flac 
+pitch_keycenter=79
+lokey=77 hikey=81
+lovel=0 hivel=127
+
+<region>
+sample=SOUND_3.flac 
+pitch_keycenter=84
+lokey=82 hikey=86
+lovel=0 hivel=127
+
+/////////////////////////////////////////////////////////////////////////////
+// Release clicks
+
+<region>
+sample=KLICK_1.flac 
+pitch_keycenter=89
+lokey=87 hikey=91
+lovel=0 hivel=127
+
+<region>
+sample=KLICK_2.flac 
+pitch_keycenter=94
+lokey=92 hikey=96
+lovel=0 hivel=127
+
+<region>
+sample=KLICK_3.flac 
+pitch_keycenter=99
+lokey=97 hikey=101
+lovel=0 hivel=127
+
+
+
+
 
 <master>
 <group>
@@ -21,6 +75,7 @@ lfo01_freq_oncc92=7       // Knob adds up to 7 Hz to the speed
  ampeg_sustain=0.001
  ampeg_release=0.435024
  loop_mode=loop_continuous
+
 
 /////////////////////////////////////////////////////////////////////////////
 // E1
@@ -299,342 +354,45 @@ ampeg_hold=7.9
 
 <region>
 sample=2_Eb_a.flac
-key=39
+pitch_keycenter=39
+lokey=39 hikey=41
 lovel=111 hivel=127
 ampeg_hold=7.7
 <region>
 sample=2_Eb_b.flac
-key=39
+pitch_keycenter=39
+lokey=39 hikey=41
 lovel=86 hivel=110
 ampeg_hold=7.7
 <region>
 sample=2_Eb_c.flac
-key=39
+pitch_keycenter=39
+lokey=39 hikey=41
 lovel=71 hivel=85
 ampeg_hold=7.7
 <region>
 sample=2_Eb_d.flac
-key=39
+pitch_keycenter=39
+lokey=39 hikey=41
 lovel=0 hivel=70
 ampeg_hold=7.7
 
-/////////////////////////////////////////////////////////////////////////////
-// E2
-
-<region>
-sample=2_E_a.flac
-key=40
-lovel=111 hivel=127
-ampeg_hold=7.7
-<region>
-sample=2_E_b.flac
-key=40
-lovel=86 hivel=110
-ampeg_hold=7.7
-<region>
-sample=2_E_c.flac
-key=40
-lovel=71 hivel=85
-ampeg_hold=7.7
-<region>
-sample=2_E_d.flac
-key=40
-lovel=0 hivel=70
-ampeg_hold=7.7
-
-/////////////////////////////////////////////////////////////////////////////
-// F2
-
-<region>
-sample=2_F_a.flac
-key=41
-lovel=111 hivel=127
-ampeg_hold=7.2
-<region>
-sample=2_F_b.flac
-key=41
-lovel=86 hivel=110
-ampeg_hold=7.2
-<region>
-sample=2_F_c.flac
-key=41
-lovel=71 hivel=85
-ampeg_hold=7.2
-<region>
-sample=2_F_d.flac
-key=41
-lovel=0 hivel=70
-ampeg_hold=7.2
-
-/////////////////////////////////////////////////////////////////////////////
-// Gb2
-
-<region>
-sample=2_Gb_a.flac
-key=42
-lovel=111 hivel=127
-ampeg_hold=7.2
-<region>
-sample=2_Gb_b.flac
-key=42
-lovel=86 hivel=110
-ampeg_hold=7.2
-<region>
-sample=2_Gb_c.flac
-key=42
-lovel=71 hivel=85
-ampeg_hold=7.2
-<region>
-sample=2_Gb_d.flac
-key=42
-lovel=0 hivel=70
-ampeg_hold=7.2
-
-/////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
 // G2
 
 <region>
-sample=2_G_a.flac
-key=43
-lovel=111 hivel=127
-ampeg_hold=6.9
-<region>
-sample=2_G_b.flac
-key=43
-lovel=86 hivel=110
-ampeg_hold=6.9
-<region>
-sample=2_G_c.flac
-key=43
-lovel=71 hivel=85
-ampeg_hold=6.9
-<region>
-sample=2_G_d.flac
-key=43
-lovel=0 hivel=70
-ampeg_hold=6.9
-
-////////////////////////////////////////////////////////////////////////////
-// Ab2
-
-<region>
-sample=2_Ab_a.flac
-key=44
-lovel=111 hivel=127
-ampeg_hold=6.9
-<region>
-sample=2_Ab_b.flac
-key=44
-lovel=86 hivel=110
-ampeg_hold=6.9
-<region>
-sample=2_Ab_c.flac
-key=44
-lovel=71 hivel=85
-ampeg_hold=6.9
-<region>
-sample=2_Ab_d.flac
-key=44
-lovel=0 hivel=70
-ampeg_hold=6.9
-
-////////////////////////////////////////////////////////////////////////////
-// A2
-
-<region>
-sample=2_A_a.flac
-key=45
-lovel=111 hivel=127
-ampeg_hold=6.6
-<region>
-sample=2_A_b.flac
-key=45
-lovel=86 hivel=110
-ampeg_hold=6.6
-<region>
-sample=2_A_c.flac
-key=45
-lovel=71 hivel=85
-ampeg_hold=6.6
-<region>
-sample=2_A_d.flac
-key=45
-lovel=0 hivel=70
-ampeg_hold=6.6
-
-////////////////////////////////////////////////////////////////////////////
-// Bb2
-
-<region>
-sample=2_Bb_a.flac
-key=46
-lovel=111 hivel=127
-ampeg_hold=6.6
-<region>
-sample=2_Bb_b.flac
-key=46
-lovel=86 hivel=110
-ampeg_hold=6.6
-<region>
-sample=2_Bb_c.flac
-key=46
-lovel=71 hivel=85
-ampeg_hold=6.6
-<region>
-sample=2_Bb_d.flac
-key=46
-lovel=0 hivel=70
-ampeg_hold=6.6
-
-////////////////////////////////////////////////////////////////////////////
-// B2
-
-<region>
-sample=2_B_a.flac
-key=47
-lovel=111 hivel=127
-ampeg_hold=6.0
-<region>
-sample=2_B_b.flac
-key=47
-lovel=86 hivel=110
-ampeg_hold=6.0
-<region>
-sample=2_B_c.flac
-key=47
-lovel=71 hivel=85
-ampeg_hold=6.0
-<region>
-sample=2_B_d.flac
-key=47
-lovel=0 hivel=70
-ampeg_hold=6.0
-
-
-
-
-
+sample=2_G.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=0 hivel=127
+ampeg_hold=7.4
 
 ////////////////////////////////////////////////////////////////////////////
 // C3
 
 <region>
-sample=3_C_a.flac
-key=48
-lovel=111 hivel=127
-ampeg_hold=6.0
-<region>
-sample=3_C_b.flac
-key=48
-lovel=86 hivel=110
-ampeg_hold=6.0
-<region>
-sample=3_C_c.flac
-key=48
-lovel=71 hivel=85
-ampeg_hold=6.0
-<region>
-sample=3_C_d.flac
-key=48
-lovel=0 hivel=70
-ampeg_hold=6.0
-
-////////////////////////////////////////////////////////////////////////////
-// Db3
-
-<region>
-sample=3_Db_a.flac
-key=49
-lovel=111 hivel=127
-ampeg_hold=5.6
-<region>
-sample=3_Db_b.flac
-key=49
-lovel=86 hivel=110
-ampeg_hold=5.6
-<region>
-sample=3_Db_c.flac
-key=49
-lovel=71 hivel=85
-ampeg_hold=5.6
-<region>
-sample=3_Db_d.flac
-key=49
-lovel=0 hivel=70
-ampeg_hold=5.6
-
-////////////////////////////////////////////////////////////////////////////
-// D3
-
-<region>
-sample=3_D_a.flac
-key=50
-lovel=111 hivel=127
-ampeg_hold=5.6
-<region>
-sample=3_D_b.flac
-key=50
-lovel=86 hivel=110
-ampeg_hold=5.6
-<region>
-sample=3_D_c.flac
-key=50
-lovel=71 hivel=85
-ampeg_hold=5.6
-<region>
-sample=3_D_d.flac
-key=50
-lovel=0 hivel=70
-ampeg_hold=5.6
-
-////////////////////////////////////////////////////////////////////////////
-// Eb3
-
-<region>
-sample=3_Eb_a.flac
-key=51
-lovel=111 hivel=127
-ampeg_hold=5.3
-<region>
-sample=3_Eb_b.flac
-key=51
-lovel=86 hivel=110
-ampeg_hold=5.3
-<region>
-sample=3_Eb_c.flac
-key=51
-lovel=71 hivel=85
-ampeg_hold=5.3
-<region>
-sample=3_Eb_d.flac
-key=51
-lovel=0 hivel=70
-ampeg_hold=5.3
-
-/////////////////////////////////////////////////////////////////////////////
-// E3
-
-<region>
-sample=3_E_a.flac
-lokey=52 hikey=127
-pitch_keycenter=52
-lovel=111 hivel=127
-ampeg_hold=5.3
-<region>
-sample=3_E_b.flac
-lokey=52 hikey=127
-pitch_keycenter=52
-lovel=86 hivel=110
-ampeg_hold=5.3
-<region>
-sample=3_E_c.flac
-lokey=52 hikey=127
-pitch_keycenter=52
-lovel=71 hivel=85
-ampeg_hold=5.3
-<region>
-sample=3_E_d.flac
-lokey=52 hikey=127
-pitch_keycenter=52
-lovel=0 hivel=70
-ampeg_hold=5.3
+sample=3_C.flac
+pitch_keycenter=48
+lokey=46 hikey=60
+lovel=0 hivel=127
+ampeg_hold=7.0
